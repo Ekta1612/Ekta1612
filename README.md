@@ -7,6 +7,8 @@
   <a href="https://github.com/EktaSingh1612/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=I'm%20Ekta;A%20Passionate%20Data%20Analyst;Always%20ready%20to%20learn%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ekta1612&label=Profile%20views&color=0e75b6&style=flat" alt="ekta1612" /> </p>
+
 <!-- Social media handles -->
 <p align="left"> <a href="https://twitter.com/ektasingh1612" target="blank"><img src="https://img.shields.io/twitter/follow/ektasingh1612?logo=twitter&style=for-the-badge" alt="ektasingh1612" /></a> 
 </p>
@@ -63,13 +65,13 @@
 
 
 <h2 align="center">📈 Activity</h2>
+
 <a href="https://github.com/EktaSingh1612/github-readme-activity-graph"> <img align="center" src="https://activity-graph.herokuapp.com/graph?username=EktaSingh1612&theme=material-palenight" /> </a>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ektasingh1612&show_icons=true&locale=en&layout=compact" alt="ektasingh1612" /></p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ekta1612&label=Profile%20views&color=0e75b6&style=flat" alt="ekta1612" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ekta1612" alt="ekta1612" /></a> </p>
+
 
 
 <p align="left">
